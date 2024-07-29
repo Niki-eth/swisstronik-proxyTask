@@ -12,7 +12,7 @@ This project demonstrates deploying a Swisstronik contract and upgrading it usin
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/dante4rt/swisstronik-proxyTask.git
+git clone https://github.com/Niki-eth/swisstronik-proxyTask.git
 cd swisstronik-proxyTask
 ```
 
